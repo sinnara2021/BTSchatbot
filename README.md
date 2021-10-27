@@ -21,6 +21,7 @@
 
 <span style="color:rgb(245, 235, 13)">rgb(245, 235, 13)</span>  
 
+markdown-block{background: #101010 10}
 
 - - -
 (Hyphens)
