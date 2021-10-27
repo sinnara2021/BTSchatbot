@@ -13,7 +13,7 @@
 ~~방탄소년단~~
 
 <U>방탄소년단</U>   
-<span style="color:yellow">노란 글씨입니다.</span>
+#<span style="color:yellow">노란 글씨입니다.</span>#
 
 - - -
 (Hyphens)
