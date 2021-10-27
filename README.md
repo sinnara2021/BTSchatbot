@@ -37,36 +37,20 @@ _ _ _
 
 ## 🚩 Table of Contents
 
-- [Packages](#-packages)
-- [Why TOAST UI Editor?](#-why-toast-ui-editor)
-- [Features](#-features)
-- [Examples](#-examples)
-- [Browser Support](#-browser-support)
-- [Pull Request Steps](#-pull-request-steps)
-- [Contributing](#-contributing)
-- [TOAST UI Family](#-toast-ui-family)
-- [Used By](#-used-by)
-- [License](#-license)
 
 
 ## 📦 Packages
 
 ### TOAST UI Editor
 
-| Name | Description |
-| --- | --- |
 
 
 ### TOAST UI Editor's Wrappers
 
-| Name | Description |
-| --- | --- |
 
 
 ### TOAST UI Editor's Plugins
 
-| Name | Description |
-| --- | --- |
 
 
 ## 🤖 Why TOAST UI Editor?
@@ -76,7 +60,7 @@ _ _ _
 
 ## 🎨 Features
 
-*
+
 
 ## 🐾 Examples
 
@@ -84,9 +68,6 @@ _ _ _
 
 ## 🌏 Browser Support
 
-
-| :---------: | :---------: | :---------: | :---------: | :---------: |
-| Yes | 11+ | Yes | Yes | Yes |
 
 
 ## 🔧 Pull Request Steps
